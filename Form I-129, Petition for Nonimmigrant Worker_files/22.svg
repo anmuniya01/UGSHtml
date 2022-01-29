@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_22{
+fill: none;
+stroke: #000000;
+stroke-width: 1.099;
+stroke-linecap: square;
+stroke-linejoin: miter;
+}
+.g1_22{
+fill: none;
+stroke: #000000;
+stroke-width: 9.13;
+stroke-linecap: square;
+stroke-linejoin: miter;
+}
+.g2_22{
+fill: none;
+stroke: #000000;
+stroke-width: 1.099;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_22{
+fill: none;
+stroke: #000000;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_22{
+fill: #FFFFFF;
+}
+.g5_22{
+fill: #E2E2E2;
+}
+.g6_22{
+fill: none;
+stroke: #000000;
+stroke-width: 0.759;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+]]></style>
+</defs>
+<path d="M55,1155H880" class="g0_22"/>
+<path d="M876.2,146.7H60" class="g1_22"/>
+<path d="M880,155.8H55" class="g2_22"/>
+<image preserveAspectRatio="none" x="55" y="64" width="73" height="73" xlink:href="img/1.jpg"/>
+<path d="M92,210.8H880.3V183.3H92v27.5Zm0,60.5H881.4V243.8H92v27.5Z" class="g3_22"/>
+<path d="M333.3,305.6h15.3V290.3H333.3v15.3Z" class="g4_22"/>
+<path d="M333.3,305.6h15.3V290.3H333.3v15.3Z" class="g3_22"/>
+<path d="M562.5,305.6h15.2V290.3H562.5v15.3Z" class="g4_22"/>
+<path d="M562.5,305.6h15.2V290.3H562.5v15.3Z" class="g3_22"/>
+<path d="M837.5,340.8h15.2V325.6H837.5v15.2Z" class="g4_22"/>
+<path d="M837.5,340.8h15.2V325.6H837.5v15.2Z" class="g3_22"/>
+<path d="M773.3,377.5h15.3V362.2H773.3v15.3Z" class="g4_22"/>
+<path d="M773.3,377.5h15.3V362.2H773.3v15.3Z" class="g3_22"/>
+<path d="M837.5,377.5h15.2V362.2H837.5v15.3Z" class="g4_22"/>
+<path d="M837.5,377.5h15.2V362.2H837.5v15.3Z" class="g3_22"/>
+<path d="M773.3,340.8h15.3V325.6H773.3v15.2Z" class="g4_22"/>
+<path d="M773.3,340.8h15.3V325.6H773.3v15.2Z" class="g3_22"/>
+<path d="M55,438.6H880V411.1H55v27.5Z" class="g5_22"/>
+<path d="M55,438.6H880V411.1H55v27.5Z" class="g2_22"/>
+<path d="M91.7,843.1H880V614.2H91.7V843.1Zm0,-184.8H628.6V614.2H91.7v44.1Zm536.9,0H880V614.2H628.6v44.1Z" class="g3_22"/>
+<path d="M92,684.3H628.2V658.7H92v25.6Z" class="g6_22"/>
+<path d="M628.6,684.7H752.8V658.3H628.6v26.4Zm124.2,0H880V658.3H752.8v26.4Z" class="g3_22"/>
+<path d="M92,710.7H628.2V685.1H92v25.6Z" class="g6_22"/>
+<path d="M628.6,711.1H752.8V684.7H628.6v26.4Zm124.2,0H880V684.7H752.8v26.4Z" class="g3_22"/>
+<path d="M92,737.1H628.2V711.5H92v25.6Z" class="g6_22"/>
+<path d="M628.6,737.5H752.8V711.1H628.6v26.4Zm124.2,0H880V711.1H752.8v26.4Z" class="g3_22"/>
+<path d="M92,763.5H628.2V737.9H92v25.6Z" class="g6_22"/>
+<path d="M628.6,763.9H752.8V737.5H628.6v26.4Zm124.2,0H880V737.5H752.8v26.4Z" class="g3_22"/>
+<path d="M92,789.9H628.2V764.3H92v25.6Z" class="g6_22"/>
+<path d="M628.6,790.3H752.8V763.9H628.6v26.4Zm124.2,0H880V763.9H752.8v26.4Z" class="g3_22"/>
+<path d="M92,816.3H628.2V790.7H92v25.6Z" class="g6_22"/>
+<path d="M628.6,816.7H752.8V790.3H628.6v26.4Zm124.2,0H880V790.3H752.8v26.4Z" class="g3_22"/>
+<path d="M92,842.7H628.2V817.1H92v25.6Z" class="g6_22"/>
+<path d="M628.6,843.1H752.8V816.7H628.6v26.4Zm124.2,0H880V816.7H752.8v26.4Z" class="g3_22"/>
+<path d="M379.1,469h15.3V453.8H379.1V469Z" class="g4_22"/>
+<path d="M379.1,469h15.3V453.8H379.1V469Z" class="g3_22"/>
+<path d="M623.4,469h15.3V453.8H623.4V469Z" class="g4_22"/>
+<path d="M623.4,469h15.3V453.8H623.4V469ZM92,1037.2H605v-27.5H92v27.5Zm522.2,0h82.6v-27.5H614.2v27.5Zm91.6,0H879.7v-27.5H705.8v27.5ZM92,982.2H605V954.7H92v27.5Zm613.8,0H879.7V954.7H705.8v27.5Z" class="g3_22"/>
+<path d="M675.3,976.1h15.3V960.8H675.3v15.3Z" class="g4_22"/>
+<path d="M675.3,976.1h15.3V960.8H675.3v15.3Z" class="g3_22"/>
+<path d="M647.8,976.1h15.3V960.8H647.8v15.3Z" class="g4_22"/>
+<path d="M647.8,976.1h15.3V960.8H647.8v15.3Z" class="g3_22"/>
+<path d="M620.3,976.1h15.3V960.8H620.3v15.3Z" class="g4_22"/>
+<path d="M620.3,976.1h15.3V960.8H620.3v15.3ZM91.7,899.7H879.9V872.2H91.7v27.5Zm0,192.5H380.9v-27.5H91.7v27.5Zm441,0H880.3v-27.5H532.7v27.5Zm-145,0H522.5v-27.5H387.7v27.5Z" class="g3_22"/>
+</svg>

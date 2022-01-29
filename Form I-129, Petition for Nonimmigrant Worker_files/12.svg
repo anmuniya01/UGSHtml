@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_12{
+fill: none;
+stroke: #000000;
+stroke-width: 1.099;
+stroke-linecap: square;
+stroke-linejoin: miter;
+}
+.g1_12{
+fill: none;
+stroke: #000000;
+stroke-width: 9.13;
+stroke-linecap: square;
+stroke-linejoin: miter;
+}
+.g2_12{
+fill: none;
+stroke: #000000;
+stroke-width: 1.099;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_12{
+fill: none;
+stroke: #000000;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_12{
+fill: #FFFFFF;
+}
+.g5_12{
+fill: #E0E0E0;
+}
+.g6_12{
+fill: #E2E2E2;
+}
+]]></style>
+</defs>
+<path d="M55,1155H880" class="g0_12"/>
+<path d="M876.1,55H59.9" class="g1_12"/>
+<path d="M880,64.2H55" class="g2_12"/>
+<path d="M92,449.2H595.7V421.7H92v27.5Zm623.4,0H879.1V421.7H715.4v27.5Zm-101.2,0h82.5V421.7H614.2v27.5ZM91.7,394.2H595.8V366.7H91.7v27.5Z" class="g3_12"/>
+<path d="M620.3,388.1h15.3V372.8H620.3v15.3Z" class="g4_12"/>
+<path d="M620.3,388.1h15.3V372.8H620.3v15.3Z" class="g3_12"/>
+<path d="M647.8,388.1h15.3V372.8H647.8v15.3Z" class="g4_12"/>
+<path d="M647.8,388.1h15.3V372.8H647.8v15.3Z" class="g3_12"/>
+<path d="M675.3,388.1h15.3V372.8H675.3v15.3Z" class="g4_12"/>
+<path d="M675.3,388.1h15.3V372.8H675.3v15.3Zm39.7,6.1H880V366.7H715v27.5Z" class="g3_12"/>
+<path d="M55,623.3H880V595.8H55v27.5Z" class="g5_12"/>
+<path d="M91.7,765.9H660V738.4H91.7v27.5Zm586.6,0H880V738.4H678.3v27.5ZM540.8,578.2H880V550.7H540.8v27.5ZM91.7,504.2H375.8V476.7H91.7v27.5Zm.4,-183.4H880V293.3H92.1v27.5Zm-.4,-82.5h385V210.8H91.7v27.5Zm403.3,0H880V210.8H495v27.5Z" class="g3_12"/>
+<path d="M55,137.5H879.1v-55H55v55Z" class="g6_12"/>
+<path d="M55,137.5H879.1v-55H55v55Z" class="g2_12"/>
+<path d="M385,504.2H497.2V476.7H385v27.5Zm120.6,0H880V476.7H505.6v27.5ZM91.7,577.5H302.5V550H91.7v27.5Zm229.1,0H522.5V550H320.8v27.5Z" class="g3_12"/>
+</svg>

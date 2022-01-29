@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_3{
+fill: none;
+stroke: #000000;
+stroke-width: 1.099;
+stroke-linecap: square;
+stroke-linejoin: miter;
+}
+.g1_3{
+fill: #FFFFFF;
+}
+.g2_3{
+fill: none;
+stroke: #000000;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_3{
+fill: none;
+stroke: #C0C0C0;
+stroke-width: 0.763;
+stroke-linecap: square;
+stroke-linejoin: miter;
+}
+.g4_3{
+fill: #E0E0E0;
+}
+.g5_3{
+fill: none;
+stroke: #000000;
+stroke-width: 9.13;
+stroke-linecap: square;
+stroke-linejoin: miter;
+}
+.g6_3{
+fill: none;
+stroke: #000000;
+stroke-width: 1.099;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+]]></style>
+</defs>
+<path d="M55,1155H880" class="g0_3"/>
+<path d="M311.7,357.5H513.3V320.8H311.7v36.7Z" class="g1_3"/>
+<path d="M311.7,385H513.3V357.5H311.7V385ZM91.7,513.3H495V485.8H91.7v27.5Zm412.5,0H880V485.8H504.2v27.5Zm110,137.5h82.5V623.3H614.2v27.5Zm91.6,0H879.5V623.3H705.8v27.5Zm-614.1,0H605.2V623.3H91.7v27.5Z" class="g2_3"/>
+<path d="M620.3,590.6h15.3V575.4H620.3v15.2Z" class="g1_3"/>
+<path d="M620.3,590.6h15.3V575.4H620.3v15.2Zm85.5,6.2H879.5V569.3H705.8v27.5Z" class="g2_3"/>
+<path d="M675.3,590.6h15.3V575.4H675.3v15.2Z" class="g1_3"/>
+<path d="M675.3,590.6h15.3V575.4H675.3v15.2Z" class="g2_3"/>
+<path d="M647.8,590.6h15.3V575.4H647.8v15.2Z" class="g1_3"/>
+<path d="M647.8,590.6h15.3V575.4H647.8v15.2ZM91.7,596.8H605.2V569.3H91.7v27.5ZM91.7,440H623.3V412.5H91.7V440Zm540.8,0H834.2V412.5H632.5V440Z" class="g2_3"/>
+<path d="M91.7,357.5H302.5V320.8H91.7v36.7Z" class="g1_3"/>
+<path d="M91.7,385H302.5V357.5H91.7V385Zm430.8,0H880V357.5H522.5V385ZM91.7,229.2H467.5V201.7H91.7v27.5Z" class="g2_3"/>
+<path d="M451.5,284.2v27.5m-22,-27.5v27.5M407.4,284.2v27.5m-22,-27.5v27.5M363.3,284.2v27.5M561.7,284.2v27.5m-22,-27.5v27.5M517.6,284.2v27.5m-22,-27.5v27.5m-22,-27.5v27.5" class="g3_3"/>
+<path d="M55,119.8H880V72.4H55v47.4Z" class="g4_3"/>
+<path d="M55,119.8H880V72.4H55v47.4Z" class="g2_3"/>
+<path d="M876.2,55H60" class="g5_3"/>
+<path d="M880,64.2H55" class="g6_3"/>
+<path d="M91.7,312.6H302.5V285.1H91.7v27.5Zm504.1,0H880V285.1H595.8v27.5Z" class="g2_3"/>
+<path d="M55,705.8H880V678.3H55v27.5Z" class="g4_3"/>
+<path d="M55,705.8H880V678.3H55v27.5Zm55.4,128H457.9V807H110.4v26.8Zm394.2,0h375V807h-375v26.8Z" class="g2_3"/>
+<path d="M358.5,777.6h15.3V762.4H358.5v15.2Z" class="g1_3"/>
+<path d="M358.5,777.6h15.3V762.4H358.5v15.2Z" class="g2_3"/>
+<path d="M468.5,777.6h15.3V762.4H468.5v15.2Z" class="g1_3"/>
+<path d="M468.5,777.6h15.3V762.4H468.5v15.2Z" class="g2_3"/>
+<path d="M642.7,777.6H658V762.4H642.7v15.2Z" class="g1_3"/>
+<path d="M642.7,777.6H658V762.4H642.7v15.2ZM110,971.7H531.7V944.2H110v27.5Zm-.4,-55H623.3V889.2H109.6v27.5Z" class="g2_3"/>
+<path d="M666.9,910.6h15.3V895.3H666.9v15.3Z" class="g1_3"/>
+<path d="M666.9,910.6h15.3V895.3H666.9v15.3Z" class="g2_3"/>
+<path d="M694.4,910.6h15.3V895.3H694.4v15.3Z" class="g1_3"/>
+<path d="M694.4,910.6h15.3V895.3H694.4v15.3Zm29.8,6.1H880V889.2H724.2v27.5Z" class="g2_3"/>
+<path d="M639.4,910.6h15.3V895.3H639.4v15.3Z" class="g1_3"/>
+<path d="M639.4,910.6h15.3V895.3H639.4v15.3Z" class="g2_3"/>
+<path d="M202,146.7v27.5M179.9,146.7v27.5m-22,-27.5v27.5M312.2,146.7v27.5M290.1,146.7v27.5m-22,-27.5v27.5m-22,-27.5v27.5M224,146.7v27.5" class="g3_3"/>
+<path d="M533.5,1052.6h15.2v-15.2H533.5v15.2Z" class="g1_3"/>
+<path d="M533.5,1052.6h15.2v-15.2H533.5v15.2Z" class="g2_3"/>
+<path d="M460.1,1052.6h15.3v-15.3H460.1v15.3Z" class="g1_3"/>
+<path d="M460.1,1052.6h15.3v-15.3H460.1v15.3Zm80.7,-80.9H880V944.2H540.8v27.5ZM348.3,174.2H880V146.7H348.3v27.5Zm128.4,55H880V201.7H476.7v27.5Zm-82.5,797.5H522.5V999.2H394.2v27.5Zm137.5,0H880V999.2H531.7v27.5Zm-421.7,0H385V999.2H110v27.5ZM137.7,174.2H334.8V146.7H137.7v27.5ZM339.2,312.6H584.4V285.1H339.2v27.5Z" class="g2_3"/>
+</svg>

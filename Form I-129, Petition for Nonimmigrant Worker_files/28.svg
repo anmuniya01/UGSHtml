@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_28{
+fill: none;
+stroke: #000000;
+stroke-width: 1.099;
+stroke-linecap: square;
+stroke-linejoin: miter;
+}
+.g1_28{
+fill: #E2E2E2;
+}
+.g2_28{
+fill: none;
+stroke: #000000;
+stroke-width: 1.099;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_28{
+fill: none;
+stroke: #000000;
+stroke-width: 9.13;
+stroke-linecap: square;
+stroke-linejoin: miter;
+}
+.g4_28{
+fill: none;
+stroke: #000000;
+stroke-width: 0.58;
+stroke-linecap: square;
+stroke-linejoin: miter;
+}
+.g5_28{
+fill: none;
+stroke: #000000;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_28{
+fill: #FFFFFF;
+}
+]]></style>
+</defs>
+<path d="M55,1155H880" class="g0_28"/>
+<path d="M55,110H880V82.5H55V110Z" class="g1_28"/>
+<path d="M55,110H880V82.5H55V110Z" class="g2_28"/>
+<path d="M876.2,55H60" class="g3_28"/>
+<path d="M880,64.2H55" class="g2_28"/>
+<path d="M55,137.1H155.3" class="g4_28"/>
+<path d="M91.5,321.4H632.6V293.3H91.5v28.1Zm550.1,0H724V293.3H641.6v28.1Zm91.7,-.6H880V293.3H733.3v27.5ZM91.5,265.8h541V238.3H91.5v27.5Zm.2,110H293.3V348.3H91.7v27.5Zm641.6,-110H880V238.3H733.3v27.5Z" class="g5_28"/>
+<path d="M702.8,259.7h15.3V244.4H702.8v15.3Z" class="g6_28"/>
+<path d="M702.8,259.7h15.3V244.4H702.8v15.3Z" class="g5_28"/>
+<path d="M675.3,259.7h15.3V244.4H675.3v15.3Z" class="g6_28"/>
+<path d="M675.3,259.7h15.3V244.4H675.3v15.3Z" class="g5_28"/>
+<path d="M647.8,259.7h15.3V244.4H647.8v15.3Z" class="g6_28"/>
+<path d="M647.8,259.7h15.3V244.4H647.8v15.3ZM91.8,192.5H880V165H91.8v27.5Z" class="g5_28"/>
+<path d="M55,430.8H880V403.3H55v27.5Z" class="g1_28"/>
+<path d="M55,430.8H880V403.3H55v27.5Z" class="g2_28"/>
+<path d="M91.7,568.3H412.5V540.8H91.7v27.5Zm330,0H669.2V540.8H421.7v27.5Zm256.6,0H880V540.8H678.3v27.5Zm0,73.6H880V614.4H678.3v27.5ZM320.8,724.2H880.2V696.7H320.8v27.5ZM357.5,375.8H595.8V348.3H357.5v27.5ZM91.7,724.2H302.5V696.7H91.7v27.5Z" class="g5_28"/>
+<image preserveAspectRatio="none" x="55" y="614" width="26" height="28" xlink:href="img/1.jpg"/>
+<path d="M91.7,641.9H660V614.4H91.7v27.5Z" class="g5_28"/>
+</svg>
